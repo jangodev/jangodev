@@ -3,3 +3,6 @@
 
 # Check out one of my biggest projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jangodev&repo=nebulaproxy)](https://github.com/anuraghazra/github-readme-stats)
+
+# Other stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangodev)](https://github.com/anuraghazra/github-readme-stats)
